@@ -1,0 +1,54 @@
+/-------------------------------------------------------------------------\
+|OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO|
+|OOO	      OOOOOO 	 OOOOOOOOOOOO               OOOOOOOOOOOOOOOOOOOOOO|
+|OOOO	OOOO 	OOOOO	OOOOOOOOOOOOOOO   OOOOO   OOOOOOOOOOOOOOOOOOOOOOOO|
+|OOOO	OOOOO	OOOOO	OOOOOOOOOOOOOOO   OOOOO   OOOOOOOOOOOOOOOOOOOOOOOO|
+|OOOO	OOOOO	OOOOO	OOOOOOOOOOOOOOO   OOOOO   OOOOOOOOOOOOOOOOOOOOOOOO|
+|OOOO	OOOOO	OOOOO	OOOOOOOOOOOOOOO   OOOOO   OOOOOOOOOOOOOOOOOOOOOOOO|
+|OOOO	OOOOO	OOOOO	OOOOOOOOOOOOOOO   OOOOO   OOOOOOOOOOOOOOOOOOOOOOOO|
+|OOOO	OOOOO	OOOOO	OOOOOOOOOOOOOOO   OOOOO   OOOOOOOOOOOOOOOOOOOOOOOO|
+|OOOO	OOOOO	OOOOO	OOOOOOOOOOOOOOO   OOOOO   OOOOOOOOOOOOOOOOOOOOOOOO|
+|OOOO	OOOOO	OOOOO	OOOOOOOOOOOOOOO   OOOOO   OOOOOOOOOOOOOOOOOOOOOOOO|
+|OOOO	OOOOO	OOOOO	OOOOOOOOOOOOOOO   OOOOO   OOOOOOOOOOOOOOOOOOOOOOOO|
+|OOOO	OOOO	OOOOO	OOOOOO  OOOOOOO   OOOOO   OOOOOOOOOOOOOOOOOOOOOOOO|
+|OOO	      OOOOOO 		OOOOO               OOOOOOOOOOOOOOOOOOOOOO|
+|OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO|
+\-------------------------------------------------------------------------/
+
+
+
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::									 ::
+::			THE beeyst geym eva!				 ::
+::			its laik 1 mmorpg but cooler-ish!		 ::
+::									 ::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+				take it serious fucka!
+
+
+
+
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::									 ::
+::		Dokumentation fuckaa!					 ::
+::			 						 ::
+::									 ::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+- Zielsetzung: Engine schreiben, die auch für andere Spiele klappt
+-- Features:
+--- Player bewegen
+--- Kollisionen
+
+
+
+- Dungeon Looter II
+-- World Generator
+
